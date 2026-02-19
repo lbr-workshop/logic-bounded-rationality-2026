@@ -6,7 +6,7 @@ nav_order: 1
 
 # Logic and Bounded Rationality 2026
 
-**Online Workshop · 25–27 February 2026 · Microsoft Teams**
+**University of Milan · Online Workshop · 25–27 February 2026 · Microsoft Teams**
 
 The workshop *Logic and Bounded Rationality 2026* brings together researchers working on logical, philosophical, and computational approaches to reasoning under resource constraints.
 
