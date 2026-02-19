@@ -6,7 +6,7 @@ nav_order: 4
 
 # Abstracts
 
-## Central European Time
+Each abstract can be expanded by clicking on the corresponding entry below.
 
 ---
 
