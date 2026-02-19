@@ -4,9 +4,7 @@ title: Program
 nav_order: 2
 ---
 
-# Program
-
-## Central European Time
+# Program (Central European Time)
 
 ---
 
