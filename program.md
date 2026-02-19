@@ -7,8 +7,6 @@ nav_order: 2
 # Program
 ## Central European Time
 
----
-
 ### Wednesday, 25 February 2026
 
 **9:45–10:00**  Welcome and opening remarks  
