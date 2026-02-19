@@ -21,8 +21,6 @@ Topics include:
 - argumentation and belief revision under constraints
 - logic and AI perspectives on rational agency
 
----
-
 ## Format
 Invited talks and thematic discussions. **No call for papers.**
 
