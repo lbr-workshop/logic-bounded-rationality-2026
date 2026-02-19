@@ -24,4 +24,4 @@ Invited talks and thematic discussions. **No call for papers.**
 
 ## Participation
 Open to all. No Microsoft account required.  
-Teams link: ... 
+Join at: https://teams.microsoft.com/meet/3900462525659?p=kegfw6K6F0fUvHx7gE 
