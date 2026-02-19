@@ -6,7 +6,9 @@ nav_order: 2
 
 # Program
 
+---
 ## Central European Time
+
 ---
 
 ### Wednesday, 25 February 2026
