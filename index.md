@@ -14,7 +14,7 @@ The workshop *Logic and Bounded Rationality 2026* brings together researchers wo
 - Costanza Larese (University of Milan)
 - Marcello D'Agostino (University of Milan)
   
-For inquiries: [**costanza.larese@unimi.it**]{mailto:costanza.larese@unimi.it}
+For inquiries: [**costanza.larese@unimi.it**](mailto:costanza.larese@unimi.it)
 
 ## Aims and Scope
 
